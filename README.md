@@ -6,6 +6,7 @@ The second option (includes number 1 into name)
 
 ### The first option
  The firt option is more generic (linear) design. I've tried to upply all knowlege that I got studying past two weeks. The self-description and future work will be added. 
+Have some issues to make the moving image move from bottom edge of the image to the top edge - so, you can see background color when make the screen narrow. 
 
  ### The second design
  The second option is more design oriented. Made by using complimentary colors. The future work and self-description will be added.
